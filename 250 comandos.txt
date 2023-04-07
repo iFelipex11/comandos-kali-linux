@@ -1,0 +1,240 @@
+adduser: Agregar un nuevo usuario al sistema.
+addgroup: Agregar un nuevo grupo al sistema.
+apropos: Buscar una palabra clave en las páginas del manual.
+ar: Crear, modificar y extraer archivos de archivo.
+awk: Procesar y transformar archivos de texto.
+basename: Mostrar el nombre base de una ruta de archivo.
+bc: Una calculadora de línea de comandos.
+bzip2: Comprimir y descomprimir archivos con el formato bzip2.
+cal: Mostrar un calendario.
+cat: Mostrar el contenido de un archivo.
+cd: Cambiar el directorio actual.
+chgrp: Cambiar el grupo propietario de un archivo o directorio.
+chmod: Cambiar los permisos de un archivo o directorio.
+chown: Cambiar el propietario de un archivo o directorio.
+chroot: Cambiar el directorio raíz para un proceso.
+clear: Limpiar la pantalla de la terminal.
+cmp: Comparar dos archivos byte por byte.
+comm: Mostrar las líneas comunes y no comunes entre dos archivos ordenados.
+cp: Copiar archivos y directorios.
+cron: Ejecutar tareas programadas en intervalos regulares.
+crontab: Configurar las tareas programadas.
+cut: Extraer secciones de un archivo.
+date: Mostrar la fecha y hora actual.
+dd: Copiar y convertir archivos.
+df: Mostrar el espacio en disco utilizado y disponible.
+diff: Comparar dos archivos o directorios.
+dirname: Mostrar el nombre del directorio de una ruta de archivo.
+dmesg: Ver los mensajes del kernel del sistema.
+du: Mostrar el espacio en disco utilizado por un archivo o directorio.
+echo: Imprimir un mensaje en la pantalla.
+egrep: Buscar patrones en un archivo usando expresiones regulares extendidas.
+env: Mostrar las variables de entorno del sistema.
+ethtool: Mostrar y configurar las propiedades de la interfaz de red.
+exec: Reemplazar el proceso actual con un nuevo proceso.
+exit: Salir del shell actual.
+expand: Expandir tabulaciones a espacios.
+export: Establecer una variable de entorno.
+expr: Evaluar expresiones aritméticas.
+false: Retornar un valor de salida falso.
+file: Determinar el tipo de archivo.
+find: Buscar archivos y directorios.
+finger: Mostrar información de usuario.
+fmt: Formatear el texto en párrafos.
+fold: Doblar líneas de texto.
+for: Realizar un bucle for en la línea de comandos.
+free: Mostrar el uso de memoria del sistema.
+fsck: Verificar y reparar sistemas de archivos.
+ftp: Conectarse a un servidor FTP.
+fuser: Identificar los procesos que utilizan un archivo o
+gawk: Gawk (GNU Awk) es una versión avanzada de awk.
+gcc: Compilador de C y C++.
+gdb: Depurador de programas.
+getent: Recuperar una entrada de la base de datos del sistema.
+grep: Buscar patrones en un archivo.
+groups: Mostrar los grupos de los que es miembro un usuario.
+gzip: Comprimir y descomprimir archivos con el formato gzip.
+hash: Mostrar y manipular la tabla de hash de rutas de archivo.
+head: Mostrar las primeras líneas de un archivo.
+history: Mostrar el historial de comandos de la sesión actual.
+hostname: Mostrar o establecer el nombre del host.
+htop: Monitor de recursos avanzado.
+id: Mostrar el UID y los GIDs del usuario actual.
+ifconfig: Configurar y mostrar la información de la interfaz de red.
+kill: Terminar un proceso en ejecución.
+killall: Terminar todos los procesos que coincidan con el nombre del proceso.
+less: Ver el contenido de un archivo de forma paginada.
+ln: Crear enlaces simbólicos y duros a archivos.
+locate: Buscar archivos en el sistema.
+logger: Escribir mensajes en el registro del sistema.
+login: Iniciar sesión en el sistema.
+logname: Mostrar el nombre del usuario que inició sesión.
+ls: Listar el contenido de un directorio.
+lsof: Listar los archivos que están abiertos por procesos.
+lspci: Mostrar información sobre los dispositivos PCI conectados al sistema.
+lsusb: Mostrar información sobre los dispositivos USB conectados al sistema.
+man: Mostrar el manual de un comando.
+md5sum: Calcular y verificar el hash MD5 de un archivo.
+mkdir: Crear un directorio.
+mkfs: Crear un sistema de archivos.
+mkswap: Crear un área de intercambio.
+more: Ver el contenido de un archivo de forma paginada.
+mount: Montar un sistema de archivos.
+mv: Mover o renombrar archivos y directorios.
+netstat: Mostrar información sobre las conexiones de red del sistema.
+nice: Ejecutar un proceso con una prioridad más baja.
+nl: Numerar las líneas de un archivo.
+nohup: Ejecutar un comando que no se verá afectado por la desconexión de la terminal.
+nslookup: Consultar información DNS.
+nmap: Escanear puertos y redes.
+passwd: Cambiar la contraseña del usuario actual o de otro usuario.
+paste: Unir líneas de varios archivos.
+ping: Verificar la conectividad de red.
+ps: Mostrar los procesos en ejecución.
+pwd: Mostrar el directorio de trabajo actual.
+quota: Mostrar y manipular las cuotas de disco de los usuarios.
+quotacheck:
+rar: Crear y extraer archivos comprimidos con formato RAR.
+rdesktop: Acceder a un escritorio remoto de Windows desde Linux.
+reboot: Reiniciar el sistema.
+renice: Cambiar la prioridad de un proceso en ejecución.
+rsync: Sincronizar archivos y directorios entre sistemas.
+samba: Configurar el protocolo SMB/CIFS para compartir archivos y directorios con sistemas Windows.
+scp: Copiar archivos de forma segura a través de SSH.
+sed: Editor de flujo de texto para filtrar y transformar texto.
+service: Administrar servicios del sistema.
+shutdown: Apagar el sistema.
+sleep: Pausar la ejecución de un script durante un período de tiempo.
+slocate: Buscar archivos en el sistema de forma segura.
+sort: Ordenar líneas de texto.
+source: Ejecutar un script en el shell actual.
+ssh: Conectar a un sistema remoto de forma segura.
+stat: Mostrar información detallada sobre un archivo o directorio.
+strace: Seguir y registrar las llamadas al sistema realizadas por un proceso.
+su: Cambiar al usuario superusuario (root) o a otro usuario.
+sudo: Ejecutar un comando con privilegios de superusuario (root).
+swapon: Activar un área de intercambio.
+sync: Sincronizar los datos del sistema con el disco.
+tar: Crear y extraer archivos comprimidos con formato tar.
+tail: Mostrar las últimas líneas de un archivo.
+tcpdump: Capturar y mostrar paquetes de red en tiempo real.
+tee: Redireccionar la salida de un comando a un archivo y a la pantalla.
+telnet: Conectar a un sistema remoto a través del protocolo Telnet.
+time: Medir el tiempo de ejecución de un comando.
+top: Mostrar los procesos en ejecución y su uso de recursos.
+touch: Crear o actualizar la fecha de modificación de un archivo.
+tr: Traducir o eliminar caracteres de un archivo.
+traceroute: Mostrar la ruta que sigue un paquete a través de la red.
+true: Retornar un valor de éxito (0).
+tty: Mostrar el nombre del terminal actual.
+type: Mostrar información sobre un comando.
+ulimit: Establecer límites de recursos del sistema.
+umask: Establecer los permisos predeterminados de los archivos y directorios creados.
+umount: Desmontar un sistema de archivos.
+uname: Mostrar información sobre el sistema y el kernel.
+uniq: Mostrar o eliminar líneas duplicadas de un archivo.
+update-alternatives: Administrar los enlaces simbólicos de los comandos del sistema.
+uptime: Mostrar el tiempo de actividad del sistema y la carga del sistema.
+useradd: Crear un nuevo usuario.
+userdel: Eliminar un usuario.
+usermod: Modificar un usuario.
+users: Mostrar los usuarios que están actualmente conectados.
+vmstat: Mostrar el uso de memoria, CPU y E/S del sistema.
+w: Mostrar información detallada sobre los usuarios conectados.
+watch: Ejecutar un comando periódicamente y mostrar su salida en tiempo real.
+wc: Contar líneas, palabras y caracteres en un archivo.
+wget: Descargar archivos de Internet.
+which: Mostrar la ubicación de un comando en el sistema.
+who: Mostrar los usuarios conectados al sistema.
+whoami: Mostrar el nombre de usuario actual.
+xargs: Ejecutar un comando utilizando argumentos de entrada.
+xdg-open: Abrir un archivo o URL con la aplicación predeterminada.
+xhost: Controlar el acceso al servidor de pantalla X.
+xinput: Configurar dispositivos de entrada de X.
+xkill: Terminar un proceso de X con el ratón.
+xlsclients: Mostrar los clientes de X conectados al servidor de pantalla.
+xlsfonts: Mostrar las fuentes disponibles en el sistema X.
+xrandr: Configurar la resolución, orientación y frecuencia de refresco de la pantalla.
+xset: Establecer parámetros de configuración de X.
+xterm: Terminal de X.
+yes: Mostrar una cadena repetidamente hasta que se interrumpe.
+zip: Crear y extraer archivos comprimidos con formato ZIP.
+zipinfo: Mostrar información detallada sobre los archivos comprimidos con formato ZIP.
+zless: Ver archivos comprimidos con formato gzip sin descomprimirlos.
+zmore: Ver archivos comprimidos con formato gzip sin descomprimirlos.
+zcat: Concatenar y mostrar archivos comprimidos con formato gzip.
+zgrep: Buscar patrones en archivos comprimidos con formato gzip.
+zdiff: Comparar archivos comprimidos con formato gzip.
+zsync: Sincronizar archivos comprimidos con formato gzip entre sistemas.
+unzip: Extraer archivos de un archivo comprimido con formato ZIP.
+unrar: Extraer archivos de un archivo comprimido con formato RAR.
+chage: Cambiar la fecha de expiración de la contraseña de un usuario.
+chpasswd: Cambiar la contraseña de un usuario.
+chsh: Cambiar la shell predeterminada de un usuario.
+crontab: Administrar tareas programadas del sistema.
+dd: Copiar y convertir archivos y bloques de dispositivos.
+diff: Comparar dos archivos y mostrar las diferencias.
+dmesg: Mostrar el buffer del sistema de mensajes del kernel.
+du: Mostrar el uso de espacio en disco de archivos y directorios.
+echo: Mostrar un mensaje en la pantalla o redireccionarlo a un archivo.
+egrep: Buscar patrones en archivos utilizando expresiones regulares extendidas.
+file: Determinar el tipo de archivo.
+find: Buscar archivos y directorios que coincidan con ciertos criterios.
+finger: Mo
+ftp: Cliente FTP para transferir archivos a través de Internet.
+ftpget: Descargar archivos a través de FTP.
+ftpput: Subir archivos a través de FTP.
+gawk: Procesador de texto y scripts que manipula archivos de texto.
+grep: Buscar patrones en archivos.
+groups: Mostrar los grupos a los que pertenece el usuario.
+gunzip: Descomprimir archivos comprimidos con formato gzip.
+gzip: Comprimir archivos con formato gzip.
+history: Mostrar el historial de comandos ejecutados en la terminal.
+host: Resolución de nombres de dominio y dirección IP.
+hostname: Mostrar o cambiar el nombre del sistema.
+htop: Monitor de sistema interactivo.
+iconv: Convertir la codificación de caracteres de un archivo.
+ifconfig: Mostrar y configurar interfaces de red.
+iptables: Herramienta para configurar el firewall de Linux.
+kill: Enviar una señal a un proceso para detenerlo.
+killall: Detener todos los procesos con un nombre específico.
+last: Mostrar los usuarios que han iniciado sesión recientemente.
+lftp: Cliente FTP avanzado para transferir archivos a través de Internet.
+ln: Crear un enlace simbólico o físico a un archivo o directorio.
+locate: Buscar archivos en el sistema utilizando una base de datos de nombres.
+lsof: Listar los archivos abiertos por los procesos del sistema.
+make: Utilidad para compilar y construir programas a partir del código fuente.
+man: Mostrar el manual de usuario de un comando.
+md5sum: Calcular la suma de comprobación MD5 de un archivo.
+mkdir: Crear un nuevo directorio.
+mkfs: Crear un sistema de archivos en una partición.
+mknod: Crear un archivo especial de dispositivo o tubería.
+more: Paginar la salida de un archivo de texto.
+mount: Montar un sistema de archivos en un directorio.
+mv: Mover o renombrar un archivo o directorio.
+netstat: Mostrar el estado de las conexiones de red del sistema.
+nice: Establecer la prioridad de un proceso.
+nohup: Ejecutar un comando que continúe ejecutándose después de que se cierre la terminal.
+nslookup: Consulta de DNS en línea de comando.
+openssl: Herramienta de criptografía y seguridad.
+passwd: Cambiar la contraseña de un usuario.
+ping: Verificar la conectividad de red con una dirección IP.
+ps: Mostrar los procesos en ejecución.
+pwd: Mostrar el directorio de trabajo actual.
+quota: Mostrar y establecer cuotas de disco para usuarios y grupos.
+quotaon: Activar el sistema de cuotas de disco.
+quotacheck: Verificar las cuotas de disco del sistema.
+read: Leer una línea de entrada desde la terminal.
+reboot:
+rm: Eliminar archivos o directorios.
+rsync: Copiar y sincronizar archivos de forma eficiente a través de la red.
+scp: Copiar archivos de forma segura a través de SSH.
+screen: Administrador de sesiones de terminal que permite mantener varias sesiones de terminal abiertas.
+sed: Editor de flujo de texto para procesar y transformar texto.
+shutdown: Apagar o reiniciar el sistema.
+sort: Ordenar líneas de texto.
+ssh: Acceder de forma segura a un servidor remoto.
+su: Cambiar al usuario root o a otro usuario.
+tail: Mostrar las últimas líneas de un archivo.
+tar: Crear o descomprimir archivos tar.
+top: Monitor de sistema en tiempo real para ver los procesos en ejecución y la carga del sistema.
