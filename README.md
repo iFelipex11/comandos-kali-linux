@@ -1,1 +1,146 @@
 # comandos-kali-linux
+# Comandos de Linux
+
+Aquí hay una lista de comandos comunes en Linux y su descripción:
+
+- **adduser**: Agregar un nuevo usuario al sistema.  
+- **addgroup**: Agregar un nuevo grupo al sistema.  
+- **apropos**: Buscar una palabra clave en las páginas del manual.  
+- **ar**: Crear, modificar y extraer archivos de archivo.  
+- **awk**: Procesar y transformar archivos de texto.  
+- **basename**: Mostrar el nombre base de una ruta de archivo.  
+- **bc**: Una calculadora de línea de comandos.  
+- **bzip2**: Comprimir y descomprimir archivos con el formato bzip2.  
+- **cal**: Mostrar un calendario.  
+- **cat**: Mostrar el contenido de un archivo.  
+- **cd**: Cambiar el directorio actual.  
+- **chgrp**: Cambiar el grupo propietario de un archivo o directorio.  
+- **chmod**: Cambiar los permisos de un archivo o directorio.  
+- **chown**: Cambiar el propietario de un archivo o directorio.  
+- **chroot**: Cambiar el directorio raíz para un proceso.  
+- **clear**: Limpiar la pantalla de la terminal.  
+- **cmp**: Comparar dos archivos byte por byte.  
+- **comm**: Mostrar las líneas comunes y no comunes entre dos archivos ordenados.  
+- **cp**: Copiar archivos y directorios.  
+- **cron**: Ejecutar tareas programadas en intervalos regulares.  
+- **crontab**: Configurar las tareas programadas.  
+- **cut**: Extraer secciones de un archivo.  
+- **date**: Mostrar la fecha y hora actual.  
+- **dd**: Copiar y convertir archivos.  
+- **df**: Mostrar el espacio en disco utilizado y disponible.  
+- **diff**: Comparar dos archivos o directorios.  
+- **dirname**: Mostrar el nombre del directorio de una ruta de archivo.  
+- **dmesg**: Ver los mensajes del kernel del sistema.  
+- **du**: Mostrar el espacio en disco utilizado por un archivo o directorio.  
+- **echo**: Imprimir un mensaje en la pantalla.  
+- **egrep**: Buscar patrones en un archivo usando expresiones regulares extendidas.  
+- **env**: Mostrar las variables de entorno del sistema.  
+- **ethtool**: Mostrar y configurar las propiedades de la interfaz de red.  
+- **exec**: Reemplazar el proceso actual con un nuevo proceso.  
+- **exit**: Salir del shell actual.  
+- **expand**: Expandir tabulaciones a espacios.  
+- **export**: Establecer una variable de entorno.  
+- **expr**: Evaluar expresiones aritméticas.  
+- **false**: Retornar un valor de salida falso.  
+- **file**: Determinar el tipo de archivo.  
+- **find**: Buscar archivos y directorios.  
+- **finger**: Mostrar información de usuario.  
+- **fmt**: Formatear el texto en párrafos.  
+- **fold**: Doblar líneas de texto.  
+- **for**: Realizar un bucle for en la línea de comandos.  
+- **free**: Mostrar el uso de memoria del sistema.  
+- **fsck**: Verificar y reparar sistemas de archivos.  
+- **ftp**: Conectarse a un servidor FTP.  
+- **fuser**: Identificar los procesos que utilizan un archivo o directorio.  
+- **gawk**: Gawk (GNU Awk) es una versión avanzada de awk.  
+- **gcc**: Compilador de C y C++.  
+- **gdb**: Depurador de programas.  
+- **getent**: Recuperar una entrada de la base de datos del sistema.  
+- **grep**: Buscar patrones en un archivo.  
+- **groups**: Mostrar los grupos de los que es miembro un usuario.  
+- **gzip**: Comprimir y descomprimir archivos con el formato gzip.  
+- **hash**: Mostrar y manipular la tabla de hash de rutas de archivo.  
+- **head**: Mostrar las primeras líneas de un archivo.  
+- **history**: Mostrar el historial de comandos de la sesión actual.  
+- **hostname**: Mostrar o establecer el nombre del host.  
+- **htop**: Monitor de recursos avanzado.  
+- **id**: Mostrar el UID y los GIDs del usuario actual.  
+- **ifconfig**: Configurar y mostrar la información de la interfaz de red.  
+- **kill**: Terminar un proceso en ejecución.  
+- **killall**: Terminar todos los procesos que coincidan con el nombre del proceso.  
+- **less**: Ver el contenido de un archivo de forma paginada.  
+- **ln**: Crear enlaces simbólicos y duros a archivos.  
+- **locate**: Buscar archivos en el sistema.  
+- **logger**: Escribir mensajes en el registro del sistema.  
+- **login**: Iniciar sesión en el sistema.  
+- **logname**: Mostrar el nombre del usuario que inició sesión.  
+- **ls**: Listar el contenido de un directorio.  
+- **lsof**: Listar los archivos que están abiertos por procesos.  
+- **lspci**: Mostrar información sobre los dispositivos PCI conectados al sistema.  
+- **lsusb**: Mostrar información sobre los dispositivos USB conectados al sistema.  
+- **man**: Mostrar el manual de un comando.  
+- **md5sum**: Calcular y verificar el hash MD5 de un archivo.  
+- **mkdir**: Crear un directorio.  
+- **mkfs**: Crear un sistema de archivos.  
+- **mkswap**: Crear un área de intercambio.  
+- **more**: Ver el contenido de un archivo de forma paginada.  
+- **mount**: Montar un sistema de archivos.  
+- **mv**: Mover o renombrar archivos y directorios.  
+- **netstat**: Mostrar información sobre las conexiones de red del sistema.  
+- **nice**: Ejecutar un proceso con una prioridad más baja.  
+- **nl**: Numerar las líneas de un archivo.  
+- **nohup**: Ejecutar un comando que no se verá afectado por la desconexión de la terminal.  
+- **nslookup**: Consultar información DNS.  
+- **nmap**: Escanear puertos y redes.  
+- **passwd**: Cambiar la contraseña del usuario actual o de otro usuario.  
+- **paste**: Unir líneas de varios archivos.  
+- **ping**: Verificar la conectividad de red.  
+- **ps**: Mostrar los procesos en ejecución.  
+- **pwd**: Mostrar el directorio de trabajo actual.  
+- **quota**: Mostrar y manipular las cuotas de disco de los usuarios.  
+- **quotacheck**: Verificar y reparar las cuotas de disco.  
+- **rar**: Crear y extraer archivos comprimidos con formato RAR.  
+- **rdesktop**: Acceder a un escritorio remoto de Windows desde Linux.  
+- **reboot**: Reiniciar el sistema.  
+- **renice**: Cambiar la prioridad de un proceso en ejecución.  
+- **rsync**: Sincronizar archivos y directorios entre sistemas.  
+- **samba**: Configurar el protocolo SMB/CIFS para compartir archivos y directorios con sistemas Windows.  
+- **scp**: Copiar archivos de forma segura a través de SSH.  
+- **sed**: Editor de flujo de texto para filtrar y transformar texto.  
+- **service**: Administrar servicios del sistema.  
+- **shutdown**: Apagar el sistema.  
+- **sleep**: Pausar la ejecución de un script durante un período de tiempo.  
+- **slocate**: Buscar archivos en el sistema de forma segura.  
+- **sort**: Ordenar líneas de texto.  
+- **source**: Ejecutar un script en el shell actual.  
+- **ssh**: Conectar a un sistema remoto de forma segura.  
+- **stat**: Mostrar información detallada sobre un archivo o directorio.  
+- **strace**: Seguir y registrar las llamadas al sistema realizadas por un proceso.  
+- **su**: Cambiar al usuario superusuario (root) o a otro usuario.  
+- **sudo**: Ejecutar un comando con privilegios de superusuario (root).  
+- **swapon**: Activar un área de intercambio.  
+- **sync**: Sincronizar los datos del sistema con el disco.  
+- **tar**: Crear y extraer archivos comprimidos con formato tar.  
+- **tail**: Mostrar las últimas líneas de un archivo.  
+- **tcpdump**: Capturar y mostrar paquetes de red en tiempo real.  
+- **tee**: Redireccionar la salida de un comando a un archivo y a la pantalla.  
+- **telnet**: Conectar a un sistema remoto a través del protocolo Telnet.  
+- **time**: Medir el tiempo de ejecución de un comando.  
+- **top**: Mostrar los procesos en ejecución y su uso de recursos.  
+- **touch**: Crear o actualizar la fecha de modificación de un archivo.  
+- **tr**: Traducir o eliminar caracteres de un archivo.  
+- **uname**: Mostrar información sobre el sistema operativo.  
+- **uniq**: Eliminar líneas duplicadas de un archivo.  
+- **unlink**: Eliminar un archivo.  
+- **uptime**: Mostrar el tiempo de actividad del sistema.  
+- **useradd**: Agregar un nuevo usuario al sistema.  
+- **userdel**: Eliminar un usuario del sistema.  
+- **usermod**: Modificar la información de un usuario.  
+- **vgrep**: Buscar patrones en archivos de texto.  
+- **wc**: Contar las líneas, palabras y caracteres de un archivo.  
+- **wget**: Descargar archivos desde la web.  
+- **who**: Mostrar quién está conectado al sistema.  
+- **whoami**: Mostrar el nombre del usuario actual.  
+- **xargs**: Construir y ejecutar comandos utilizando argumentos.  
+- **zip**: Comprimir archivos con formato ZIP.  
+- **zcat**: Ver el contenido de un archivo comprimido sin descomprimirlo.
